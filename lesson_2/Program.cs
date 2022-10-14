@@ -1,4 +1,4 @@
-﻿ /*int Max(int arg1, int arg2, int arg3)
+﻿ int Max(int arg1, int arg2, int arg3)
  {
     int result = arg1;
     if( arg2>result) result=arg2;
@@ -22,13 +22,13 @@ int max3=Max(a7,a8,a9);
 
 int max=Max(max1,max2,max3);
 Console.WriteLine(max);
-*/
 
-/*
+
+
 int[] array = {11,21,31,41,15,61,17,18};
 array[0]=12;
 Console.WriteLine(array[4]);
-*/
+
 
 void FillArray(int[] collection)
 {
