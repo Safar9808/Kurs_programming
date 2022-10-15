@@ -1,4 +1,5 @@
-﻿//Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа
+﻿// Домашние задания
+//Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа
 
 int num = new Random().Next(100, 999);
 int s2 = (num / 10) % 10;
@@ -47,3 +48,38 @@ string checkOfHoliday(int number)
 }
 string otvet = checkOfHoliday(num3);
 Console.WriteLine($"{num3}-й день недели в календаре{otvet}выходной");
+
+//Дан список чисел, необходимо удалить все вхождения числа 20 из него и вывести его в обратном порядке.
+
+void FillArray(int[] collection)
+{
+    int length = collection.Length;
+    int index = 0;
+    while (index<length)
+    {
+        collection[index]= new Random().Next(15,25);
+        index++;
+    }
+}
+
+void PrintArray(int[] col)
+{
+    int count = col.Length;
+    int position = 0;
+    while (position<count)
+    {
+        Console.Write($"{col[position]} ");
+        position++;
+    }
+}
+
+void delete20(int[] col)
+{
+    
+}
+
+int[] array = new int[20];
+FillArray(array);
+PrintArray(array);
+
+
