@@ -12,9 +12,9 @@ else
 }
 */
 Console.Write("Введите первое число: ");
-int number1 = int.Parse(Console.ReadLine());
+float number1 = float.Parse(Console.ReadLine());
 Console.Write("Введите второе число: ");
-int number2 = int.Parse(Console.ReadLine());
+float number2 = float.Parse(Console.ReadLine());
 if (number1>number2)
 {
     Console.WriteLine("Большее из чисел: "+number1);
