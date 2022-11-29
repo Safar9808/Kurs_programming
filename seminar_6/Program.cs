@@ -57,5 +57,8 @@ PointIntersection(parametrs);
 
 // Дополнительная задача. Написать функцию возведения числа в степень через рекурсию
 
-
+int stepen( int a, int n)
+{
+   return a*n
+}
 
