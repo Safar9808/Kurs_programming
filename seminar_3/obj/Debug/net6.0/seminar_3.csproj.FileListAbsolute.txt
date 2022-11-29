@@ -1,0 +1,15 @@
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\seminar_3.csproj.AssemblyReference.cache
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\seminar_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\seminar_3.AssemblyInfoInputs.cache
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\seminar_3.AssemblyInfo.cs
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\seminar_3.csproj.CoreCompileInputs.cache
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\bin\Debug\net6.0\seminar_3.exe
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\bin\Debug\net6.0\seminar_3.deps.json
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\bin\Debug\net6.0\seminar_3.runtimeconfig.json
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\bin\Debug\net6.0\seminar_3.dll
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\bin\Debug\net6.0\seminar_3.pdb
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\seminar_3.dll
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\refint\seminar_3.dll
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\seminar_3.pdb
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\seminar_3.genruntimeconfig.cache
+C:\Users\safik\OneDrive - ITMO UNIVERSITY\Рабочий стол\GB\C#\seminar_3\obj\Debug\net6.0\ref\seminar_3.dll

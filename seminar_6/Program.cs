@@ -54,11 +54,3 @@ float[,] parametrs = FillParametrs();
 Console.WriteLine($"y = {parametrs[0,0]}x + {parametrs[0,1]}");
 Console.WriteLine($"y = {parametrs[1,0]}x + {parametrs[1,1]}");
 PointIntersection(parametrs);
-
-// Дополнительная задача. Написать функцию возведения числа в степень через рекурсию
-
-int stepen( int a, int n)
-{
-   return a*n
-}
-

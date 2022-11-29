@@ -1,4 +1,5 @@
-﻿string[,] table = new string[2,5];                                      // изначально String.Empty
+﻿/*
+string[,] table = new string[2,5];                                      // изначально String.Empty
 // table [0,0] table [0,1] table [0,2] table [0,3] table [0,4] 
 // table [1,0] table [1,1] table [1,2] table [1,3] table [1,4] 
 table[1,2] = "слово";
@@ -40,3 +41,12 @@ int[,] matrix = new int[3, 4];
 PrintArray(matrix);
 FillArray(matrix);
 PrintArray(matrix);
+ 
+*/
+
+int factorial (int n)
+{
+    if (n == 1) return 1;
+    else return n * factorial(n-1);
+}
+Console.WriteLine(factorial(5));
