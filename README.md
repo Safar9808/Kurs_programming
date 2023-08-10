@@ -1,2 +1,1 @@
-## Здесь коды с уроков и дз
-dshbgfhn
+## Codding of lecture and homework are here
